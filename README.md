@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Miihh28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
-<!---
-Miihh28/Miihh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá eu me chamo yasmin, tenho 15 anos e farei 16, dia 24 de dezembro,minha matéria preferida na escola é inglês.
+Eu pretendo fazer faculdade depois da escola, quero fazer faculdade de TI e me profissionalizar nessa área.  
